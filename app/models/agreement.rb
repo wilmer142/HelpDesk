@@ -1,3 +1,3 @@
 class Agreement < ApplicationRecord
-  belongs_to :device
+  has_many :device_agreements
 end

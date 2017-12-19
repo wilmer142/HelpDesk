@@ -4,7 +4,6 @@ class CreateAgreements < ActiveRecord::Migration[5.0]
       t.string :route
       t.string :type
       t.date :date
-      t.references :device, foreign_key: true
 
       t.timestamps
     end
