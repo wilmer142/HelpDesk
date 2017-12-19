@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  year: MyString
+  type: 
+  object: MyString
+  start_date: 2017-12-19
+  end_date: 2017-12-19
+  value: MyString
+
+two:
+  number: MyString
+  year: MyString
+  type: 
+  object: MyString
+  start_date: 2017-12-19
+  end_date: 2017-12-19
+  value: MyString

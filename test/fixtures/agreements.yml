@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  route: MyString
+  type: 
+  date: 2017-12-19
+  device: one
+
+two:
+  route: MyString
+  type: 
+  date: 2017-12-19
+  device: two

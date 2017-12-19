@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  description: MyString
+  model: MyString
+  serial_number: MyString
+  location: MyString
+  department: MyString
+  state: MyString
+  user: one
+  contract: one
+
+two:
+  type: 
+  description: MyString
+  model: MyString
+  serial_number: MyString
+  location: MyString
+  department: MyString
+  state: MyString
+  user: two
+  contract: two
